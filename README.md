@@ -37,7 +37,7 @@ publications at the end of this README.
 
 ## Installation
 
-For installation instructions, please see INSTALLATION.md
+For installation instructions, please see [INSTALLATION.md](https://github.com/HoerTech-gGmbH/openMHA/blob/master/INSTALLATION.md)
 
 ## Usage instructions:
 
